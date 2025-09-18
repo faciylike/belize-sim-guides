@@ -57,3 +57,10 @@ layout: default
 
 　　最后啰嗦一句：通信只是工具，别让它绑架了你的旅程。在伯利兹，最美的风景往往在你放下手机抬头的那一刻。祝你在伯利兹玩得开心，网络顺畅！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Belize eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/belize-data-plans)
